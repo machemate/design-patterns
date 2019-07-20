@@ -1,4 +1,4 @@
-package com.example.immutablewithbuilder;
+package com.designpattern.immutablewithbuilder;
 /**Here I have used Builder pattern for Address but generally it is used for immutable classes.
  * Here Address is not immutable.
  * 

@@ -1,4 +1,4 @@
-package com.example.strategy;
+package com.designpattern.strategy;
 /**
  * Client can select any one of the strategy ay runtime.
  * @author manoj

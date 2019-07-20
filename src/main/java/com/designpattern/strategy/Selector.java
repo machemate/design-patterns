@@ -1,4 +1,4 @@
-package com.example.strategy;
+package com.designpattern.strategy;
 
 /**
  * This is called as context object in GoF Book. Client will use it to select Strategy

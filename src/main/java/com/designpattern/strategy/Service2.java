@@ -1,4 +1,4 @@
-package com.example.strategy;
+package com.designpattern.strategy;
 
 public class Service2 implements Service{
 
