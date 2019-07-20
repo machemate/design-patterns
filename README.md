@@ -1,1 +1,1 @@
-It is mainly focused on Java code base for Data Structures, Design Patterns, Programming Questions-Solutions which are frequently asked in interviews. <br> Soon I will be adding more comments/description of code so that it becomes easier to understand.
+It is <b>Java 8</b> code base for<br> <b>1) Data Structures<br> 2) Design Patterns<br> 3) Programming Questions and solutions</b> which are frequently asked in interviews. <br> Soon I will be adding more comments/description of code so that it becomes easier to understand.
